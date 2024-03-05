@@ -1,0 +1,124 @@
+
+*{
+  background-image: url(circuito1.png);
+  background-size: 100%;
+  filter: saturate(-95%);
+  
+  
+}
+
+body {
+   
+  background: #000011;
+
+
+}
+
+h1 {
+  margin: 1.5em auto;
+  text-align: center;
+  color: #edecec;
+  background: transparent;
+  font-size: 40px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form {
+  width: 50%;
+  padding-bottom: 2em;
+  background: gray;
+  border: 10px solid rgb(142, 142, 142);
+  margin: 50px auto;
+  border-radius: 19px;
+  color:#0b0345; 
+  font-weight: bold;
+  font-size: 28px;
+  opacity: 0.9;
+  
+}
+
+fieldset {
+  border: none;
+  background: gray;
+}
+
+
+label {
+  display: block;
+  margin: 2rem auto;
+  width: 85%;
+  background: rgba(128, 128, 128);
+}
+
+input,
+textarea {
+  margin: 10px 0 0 0;
+  width: 100%;
+  height: 53px;
+  font-size: 25px;
+  background: #edecec;
+  border-radius: 10px;
+  color: #010114;
+}
+
+
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  height: 2.5em;
+  font-size: 18px;
+  background: #edecec;
+
+}
+
+.radio {
+  font-size: 25px;
+  margin: 0;
+}
+  
+textarea {
+  border-radius: 10px;
+  color: #010114;
+  height: 130px;
+  
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+
+#profile-picture {
+  height: 30px;
+  padding: 7px 2px;
+  color: #0a042e;
+  background: transparent;
+}
+
+.radio a {
+  background: gray;
+  color: #0a023b;
+}
+
+
+#enviar {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 50px;
+  font-size: 1.5rem;
+  background: linear-gradient(240deg, #16043f, #223688);
+  min-width: 300px;
+  border-radius: 20px;
+  color: #edecec;
+  border: 1px solid grey;
+  opacity: none;
+}
+
+#enviar:hover {
+  font-size: 2rem;
+  border: 5px solid #03033b;
+  
+}
