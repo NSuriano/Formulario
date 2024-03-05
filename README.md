@@ -8,5 +8,7 @@
 <p>Tambien se le brinda al usuario la posibilidad de subir una foto para su perfil en el sitio</p>
 <p>Y por último le ofrecemos un la posibilidad de escribir una breve biografía contando sobre él y sus gustos</p>
 <p>El front está diseñado para ser responsivo. Con una imagen de fondo y el formulario se visualiza tipo glass(semitranparente, tipo vidrio esmerilado). Un diseño moderno, simple e intuitivo</p>
+<p>Puede visualizar el formulario con el siguiente link:<br>
+</p>
 
 
